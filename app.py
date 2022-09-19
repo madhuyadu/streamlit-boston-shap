@@ -71,9 +71,9 @@ st.write('---')
 
 # Build Regression Model
 model = RandomForestRegressor()
-model.fit(X, Y)
+model.fit(X, Y)  # Model is trained on Boston housing dataset full data
 # Apply Model to Make Prediction
-prediction = model.predict(df)
+prediction = model.predict(df) # Trained model is used to make prediction on user input
 
 st.header('Prediction of MEDV --> Median value of houses @ Boston')
 st.write(prediction)
