@@ -23,3 +23,5 @@ Streamlit app to predict median value of houses @ Boston &amp; also plot SHAP va
 
 ![image](https://user-images.githubusercontent.com/56335301/191017679-7b284564-cd01-4a5d-9ca9-2e340eac58a2.png)
 
+# Credits
+This web app is created based on tutorial on youtube channel "dataprofessor"
